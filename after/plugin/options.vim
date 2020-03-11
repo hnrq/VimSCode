@@ -6,3 +6,4 @@ set wig+=vendor,log,logs,node_modules
 
 set background=dark
 colorscheme space_vim_theme
+autocmd vimenter * NERDTree

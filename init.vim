@@ -13,7 +13,7 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'prettier/vim-prettier'
 Plug 'jiangmiao/auto-pairs'
 Plug 'scrooloose/nerdtree'
-Plug 'neoclide/coc.nvim'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'vim-airline/vim-airline'
 Plug 'tpope/vim-fugitive'
 Plug 'vim-airline/vim-airline-themes'
