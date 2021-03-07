@@ -7,6 +7,7 @@ if !has('nvim') && !exists('g:gui_oni') | Plug 'tpope/vim-sensible' | endif
 Plug 'rstacruz/vim-opinion'
 Plug 'junegunn/fzf.vim'
 Plug 'w0rp/ale'
+Plug 'dylanaraps/wal.vim'
 Plug 'tpope/vim-sleuth'
 Plug 'sheerun/vim-polyglot'
 Plug 'ryanoasis/vim-devicons'
