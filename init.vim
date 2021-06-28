@@ -19,5 +19,6 @@ Plug 'vim-airline/vim-airline'
 Plug 'tpope/vim-fugitive'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'liuchengxu/space-vim-theme'
+Plug 'terryma/vim-multiple-cursors'
 
 call plug#end()
